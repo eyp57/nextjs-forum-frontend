@@ -1,0 +1,45 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "description": "Node ID 1 Description",
+            "title": "Title Node ID 1",
+            "categories": [
+                {
+                    "title": "Category 1",
+                    "id": 1,
+                    "description": "Category 1 Description"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "description": "Node ID 2 Description",
+            "title": "Title Node ID 2",
+            "categories": [
+                {
+                    "title": "Category 1",
+                    "id": 1,
+                    "description": "Category 1 Description"
+                },
+                {
+                    "title": "Category 2",
+                    "id": 1,
+                    "description": "Category 1 Description"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "description": "Node ID 3 Description",
+            "title": "Title Node ID 3",
+            "categories": [
+                {
+                    "title": "Category 1",
+                    "id": 1,
+                    "description": "Category 1 Description"
+                }
+            ]
+        }
+    ]
+}
